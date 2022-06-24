@@ -8,3 +8,10 @@ Needless to say, I suck at this puzzle, and this is my attempt to write a comput
 
 ## Description of Puzzle Pieces
 
+Here are the puzzle pieces grouped by piece shape:
+
+![piece shapes](/images/puzzelImage.jpg)
+
+Here are the same pieces with names added:
+
+![piece parts](/images/puzzleParts.jpeg)
