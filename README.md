@@ -15,3 +15,23 @@ Here are the puzzle pieces grouped by piece shape:
 Here are the same pieces with names added:
 
 ![piece parts](/images/puzzleParts.jpeg)
+
+## Description of Puzzle Parts
+
+The puzzle consists of the following pieces:
+
+### Board
+
+The board defines a **7** x **7** matrix upon which the pieces must all be arranged.
+
+### Tee
+
+A **tee** is shaped like a flattend "T" character and occupies 4 places in the matrix as follows:
+
+```
+*********
+*       *
+***   ***
+  *   *
+  *****
+```
