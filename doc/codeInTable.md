@@ -7,7 +7,11 @@ Can it be done?  Let's see
     <th>Left</th><th>Right</th>
   </tr>
   <tr>
-  <td>Some text</td>
+  <td>Some text:
+    <pre lang="haskell">
+    "xyz" ++ "abc"
+    </pre>
+  </td>
   <td>
     <pre lang="haskell">
     sample :: Int -> Int
