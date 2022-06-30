@@ -22,5 +22,7 @@ Can it be done?  Let's see
   </tr>
   </table>
   
+From the [first answer](https://stackoverflow.com/questions/21878143/github-markdown-syntax-highlight-of-code-blocks-in-the-table-cell/29981184#29981184) to this Stack Overflow question.
+  
   And the **beat** _goes on..._
   
